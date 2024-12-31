@@ -16,8 +16,7 @@ A sleek and modern todo application built with vanilla JavaScript and styled wit
 
 - HTML5
 - CSS3 (Custom Properties, Flexbox)
-- Vanilla JavaScript
-- Vite (Build Tool)
+- JavaScript
 - Google Fonts (Poppins)
 
 ## 🚀 Getting Started
